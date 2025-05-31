@@ -73,7 +73,7 @@ const Footer = ({ setCurrentPage }) => {
               <h4 className="font-semibold text-white mb-2 md:mb-3 text-sm md:text-base">Get In Touch</h4>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="w-4 h-4 text-violet-400" />
-                <span className="text-xs md:text-sm">hello@libzystore.com</span>
+                <span className="text-xs md:text-sm">hello@Jibzystore.com</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Phone className="w-4 h-4 text-violet-500" />
@@ -161,7 +161,7 @@ const Footer = ({ setCurrentPage }) => {
             
             {/* Copyright */}
             <div className="flex items-center space-x-2 md:space-x-4 text-gray-400 text-xs md:text-sm">
-              <span>&copy; 2025 LibZyStore. All rights reserved.</span>
+              <span>&copy; 2025 JibZyStore. All rights reserved.</span>
             
             
             </div>

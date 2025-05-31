@@ -203,7 +203,7 @@ const Homepage = ({ setCurrentPage }) => {
             </h2>
             <p className="text-xl mb-8 opacity-90">
               Join thousands of customers who've designed their perfect t-shirts
-              with LibZyStore
+              with JibZyStore
             </p>
             <button
               onClick={() => setCurrentPage("customize")}
