@@ -44,7 +44,7 @@ const Header = ({ currentPage, setCurrentPage }) => {
               </div>
               <div className="hidden sm:block">
                 <h1 className="text-xl font-bold text-white group-hover:text-transparent group-hover:bg-gradient-to-r group-hover:from-violet-400 group-hover:to-violet-600 group-hover:bg-clip-text transition-all duration-200">
-                  LibZyStore
+                  JibZyStore
                 </h1>
                 <p className="text-xs text-gray-400 -mt-1">Design Your Story</p>
               </div>

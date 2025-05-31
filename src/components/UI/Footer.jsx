@@ -54,10 +54,10 @@ const Footer = ({ setCurrentPage }) => {
             <div className="space-y-2 md:space-y-4">
               <div className="flex items-center space-x-3">
                 <div className="w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br hover:shadow-[0_0_0.8em_#9333EA] from-violet-500 via-violet-600 to-violet-700 rounded-xl flex items-center justify-center">
-                  <img src="./l.png" alt="LibZyStore Logo" className="w-6 h-6 md:w-8 md:h-8" />
+                  <img src="./l.png" alt="JibZyStore Logo" className="w-6 h-6 md:w-8 md:h-8" />
                 </div>
                 <div>
-                  <h3 className="text-xl md:text-2xl font-bold text-white">LibZyStore</h3>
+                  <h3 className="text-xl md:text-2xl font-bold text-white">JibZyStore</h3>
                   <p className="text-gray-400 text-xs md:text-sm">Design Your Story</p>
                 </div>
               </div>
